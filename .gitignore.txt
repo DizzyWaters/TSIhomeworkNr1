@@ -1,5 +1,7 @@
 # it's gitignore created by hands so might not work good, sorry for that.
 
+# wim
+
 *.swp
 
 # Readme
@@ -20,3 +22,6 @@
 [Dd]ebug/
 x64/
 x86/
+
+# testing .vs
+.vs
