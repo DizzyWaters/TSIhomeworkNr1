@@ -1,0 +1,4 @@
+﻿  main.cpp
+E:\CourseTSI\Programming\Homeworks\homeworks nr1\LW1_part2-2_solution\LW1_part2-2_project\main.cpp(6,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\CourseTSI\Programming\Homeworks\homeworks nr1\LW1_part2-2_solution\LW1_part2-2_project\main.cpp(11,7): warning C4101: 'test': unreferenced local variable
+  LW1_part2-2_project.vcxproj -> E:\CourseTSI\Programming\Homeworks\homeworks nr1\LW1_part2-2_solution\x64\Debug\LW1_part2-2_project.exe
