@@ -1,0 +1,4 @@
+# it's gitignore created by hands so might not work good, sorry for that.
+
+.vs
+*.swp
