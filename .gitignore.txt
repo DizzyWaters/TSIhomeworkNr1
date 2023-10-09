@@ -1,4 +1,22 @@
 # it's gitignore created by hands so might not work good, sorry for that.
 
-.vs
 *.swp
+
+# Readme
+
+!README.md
+
+# Visual C++ cache files
+
+*.opensdf
+*.sdf
+
+# Local History for Visual Studio Code
+
+.history/
+
+# Build results
+
+[Dd]ebug/
+x64/
+x86/
