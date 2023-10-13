@@ -24,4 +24,4 @@ x64/
 x86/
 
 # testing .vs
-.vs
+*.vs
